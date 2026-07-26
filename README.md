@@ -1,22 +1,28 @@
-<p align="center">
-  <img src="assets/banner/banner.png" alt="Customer 360 Analytics Platform Banner" width="100%">
-</p>
-
-<h1 align="center">Customer 360 Analytics Platform</h1>
+<h1 align="center">🚀 Customer 360 Analytics Platform</h1>
 
 <p align="center">
 Enterprise End-to-End Data Engineering Pipeline on Google Cloud Platform
 </p>
 
-# Customer 360 Analytics Platform using Google Cloud Platform
+<p align="center">
 
-## Project Overview
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-Data%20Warehouse-669DF6?logo=googlebigquery)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-The Customer 360 Analytics Platform is a batch ETL and Data Warehouse solution built on Google Cloud Platform (GCP). It processes retail customer, product, store, and order data through a multi-layered architecture (Bronze, Silver, and Gold) to provide clean, analytics-ready data for business reporting.
-
-The project demonstrates an end-to-end Data Engineering workflow, including data generation, ingestion, transformation, validation, and business analytics.
+</p>
 
 ---
+
+## 📌 Project Overview
+
+The **Customer 360 Analytics Platform** is a production-style Data Engineering project built on **Google Cloud Platform (GCP)**.
+
+It demonstrates how raw retail data is transformed into trusted analytical datasets using the **Bronze → Silver → Gold** architecture.
+
+The project automates data ingestion, transformation, validation, and business analytics using **Python**, **SQL**, **Google Cloud Storage**, and **BigQuery**.
 
 ## Architecture
 
