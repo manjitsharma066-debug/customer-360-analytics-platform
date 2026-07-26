@@ -1,0 +1,101 @@
+store_id,store_name,city,state,region
+S001,RetailMart Store 1,Ambarnath,Madhya Pradesh,South
+S002,RetailMart Store 2,Jammu,Telangana,North
+S003,RetailMart Store 3,Tiruchirappalli,Sikkim,South
+S004,RetailMart Store 4,Ambala,Tripura,South
+S005,RetailMart Store 5,Sri Ganganagar,Karnataka,East
+S006,RetailMart Store 6,Guna,Gujarat,West
+S007,RetailMart Store 7,Adoni,Karnataka,West
+S008,RetailMart Store 8,Sasaram,Tripura,West
+S009,RetailMart Store 9,Sri Ganganagar,Sikkim,East
+S010,RetailMart Store 10,Nashik,Goa,North
+S011,RetailMart Store 11,Tumkur,Rajasthan,North
+S012,RetailMart Store 12,Chennai,Madhya Pradesh,East
+S013,RetailMart Store 13,Udaipur,Arunachal Pradesh,South
+S014,RetailMart Store 14,Naihati,Uttarakhand,West
+S015,RetailMart Store 15,Dharmavaram,Odisha,South
+S016,RetailMart Store 16,Malda,Chhattisgarh,East
+S017,RetailMart Store 17,Kurnool,Manipur,North
+S018,RetailMart Store 18,Madhyamgram,West Bengal,West
+S019,RetailMart Store 19,Jammu,Karnataka,North
+S020,RetailMart Store 20,South Dumdum,Uttar Pradesh,South
+S021,RetailMart Store 21,Jodhpur,West Bengal,East
+S022,RetailMart Store 22,Aligarh,Uttar Pradesh,South
+S023,RetailMart Store 23,Burhanpur,Karnataka,West
+S024,RetailMart Store 24,Latur,Manipur,East
+S025,RetailMart Store 25,Thrissur,Haryana,South
+S026,RetailMart Store 26,Nadiad,Tamil Nadu,South
+S027,RetailMart Store 27,Jalgaon,Kerala,West
+S028,RetailMart Store 28,Tiruchirappalli,Odisha,North
+S029,RetailMart Store 29,Sirsa,Kerala,North
+S030,RetailMart Store 30,Karawal Nagar,Uttarakhand,South
+S031,RetailMart Store 31,Ulhasnagar,West Bengal,North
+S032,RetailMart Store 32,Gwalior,Andhra Pradesh,South
+S033,RetailMart Store 33,Uluberia,Nagaland,South
+S034,RetailMart Store 34,Rohtak,Manipur,West
+S035,RetailMart Store 35,Nandyal,Goa,West
+S036,RetailMart Store 36,Sangli-Miraj & Kupwad,Mizoram,South
+S037,RetailMart Store 37,Anand,Madhya Pradesh,West
+S038,RetailMart Store 38,Udupi,Himachal Pradesh,South
+S039,RetailMart Store 39,Durgapur,Gujarat,North
+S040,RetailMart Store 40,Morbi,Karnataka,North
+S041,RetailMart Store 41,Mumbai,Gujarat,East
+S042,RetailMart Store 42,Alappuzha,West Bengal,South
+S043,RetailMart Store 43,Guwahati,Odisha,East
+S044,RetailMart Store 44,Mirzapur,Jharkhand,East
+S045,RetailMart Store 45,Bhavnagar,Assam,South
+S046,RetailMart Store 46,Bangalore,Madhya Pradesh,West
+S047,RetailMart Store 47,Rohtak,Chhattisgarh,East
+S048,RetailMart Store 48,Karnal,Goa,South
+S049,RetailMart Store 49,Erode,Chhattisgarh,North
+S050,RetailMart Store 50,Mehsana,Bihar,West
+S051,RetailMart Store 51,Bhopal,Nagaland,West
+S052,RetailMart Store 52,Adoni,Sikkim,West
+S053,RetailMart Store 53,Panihati,Jharkhand,South
+S054,RetailMart Store 54,Bhilwara,Haryana,South
+S055,RetailMart Store 55,Etawah,Andhra Pradesh,North
+S056,RetailMart Store 56,Allahabad,Madhya Pradesh,East
+S057,RetailMart Store 57,Gurgaon,Assam,East
+S058,RetailMart Store 58,Thrissur,Karnataka,West
+S059,RetailMart Store 59,Munger,Nagaland,West
+S060,RetailMart Store 60,Thrissur,Chhattisgarh,East
+S061,RetailMart Store 61,Avadi,Tripura,North
+S062,RetailMart Store 62,Kumbakonam,Tripura,East
+S063,RetailMart Store 63,Pimpri-Chinchwad,Uttarakhand,West
+S064,RetailMart Store 64,Ramgarh,Rajasthan,North
+S065,RetailMart Store 65,Ulhasnagar,Odisha,West
+S066,RetailMart Store 66,Bhatpara,Mizoram,East
+S067,RetailMart Store 67,Amritsar,Telangana,North
+S068,RetailMart Store 68,Davanagere,Meghalaya,East
+S069,RetailMart Store 69,Alwar,Odisha,East
+S070,RetailMart Store 70,Gopalpur,Uttar Pradesh,South
+S071,RetailMart Store 71,Bilaspur,Goa,West
+S072,RetailMart Store 72,Pune,Tamil Nadu,North
+S073,RetailMart Store 73,Karaikudi,Manipur,South
+S074,RetailMart Store 74,Ranchi,Tripura,North
+S075,RetailMart Store 75,Dhule,Odisha,East
+S076,RetailMart Store 76,Ujjain,Chhattisgarh,East
+S077,RetailMart Store 77,Hubli–Dharwad,Maharashtra,North
+S078,RetailMart Store 78,Saharanpur,Nagaland,South
+S079,RetailMart Store 79,Barasat,Manipur,North
+S080,RetailMart Store 80,Madanapalle,Goa,North
+S081,RetailMart Store 81,Gaya,Nagaland,East
+S082,RetailMart Store 82,Gandhinagar,Punjab,South
+S083,RetailMart Store 83,Hajipur,Chhattisgarh,South
+S084,RetailMart Store 84,Bhatpara,Uttarakhand,East
+S085,RetailMart Store 85,Kolhapur,Maharashtra,South
+S086,RetailMart Store 86,Medininagar,Andhra Pradesh,East
+S087,RetailMart Store 87,Raipur,Punjab,West
+S088,RetailMart Store 88,Arrah,Telangana,East
+S089,RetailMart Store 89,Kanpur,Madhya Pradesh,North
+S090,RetailMart Store 90,Mirzapur,Gujarat,East
+S091,RetailMart Store 91,Jaunpur,Arunachal Pradesh,South
+S092,RetailMart Store 92,Nandyal,Tripura,East
+S093,RetailMart Store 93,Amaravati,Arunachal Pradesh,West
+S094,RetailMart Store 94,Vadodara,Meghalaya,East
+S095,RetailMart Store 95,Purnia,Tripura,West
+S096,RetailMart Store 96,Amritsar,Maharashtra,West
+S097,RetailMart Store 97,Kirari Suleman Nagar,Tripura,East
+S098,RetailMart Store 98,Adoni,West Bengal,East
+S099,RetailMart Store 99,Gorakhpur,Karnataka,West
+S100,RetailMart Store 100,Sagar,Gujarat,North
