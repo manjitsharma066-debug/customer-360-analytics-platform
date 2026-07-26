@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/banner/banner.png" alt="Customer 360 Analytics Platform Banner" width="100%">
+</p>
+
+<h1 align="center">Customer 360 Analytics Platform</h1>
+
+<p align="center">
+Enterprise End-to-End Data Engineering Pipeline on Google Cloud Platform
+</p>
 <h1 align="center">🚀 Customer 360 Analytics Platform</h1>
 
 <p align="center">
