@@ -588,7 +588,7 @@ The Power BI dashboard provides:
 
 ### Dashboard Preview
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/manjitsharma066-debug/customer-360-analytics-platform/main/dashboard/screenshots/executive_dashboard.png)
 
 ## 📈 Executive KPIs
 
