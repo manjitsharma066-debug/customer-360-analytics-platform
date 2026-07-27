@@ -10,6 +10,7 @@ Production-Ready Data Engineering Portfolio Project
 
 <p align="center">
 
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Google_Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud)
@@ -569,19 +570,25 @@ The Customer 360 Analytics Platform enables organizations to:
 - Build a scalable foundation for future data engineering initiatives.
 
 ---
-# 📊 Dashboard Preview
+## 📊 Executive Dashboard
 
-The analytics-ready Gold Layer powers an interactive business intelligence dashboard built on the curated dimensional model.
+The Power BI dashboard provides:
 
-The dashboard provides decision-makers with real-time insights into sales performance, customer behaviour, product trends, and regional business growth.
+- Total Revenue
+- Total Orders
+- Total Customers
+- Total Products
+- Total Stores
+- Average Order Value
+- Revenue Trend
+- Revenue by Region
+- Revenue by Category
+- Payment Method Distribution
+- Interactive Filters
 
----
+### Dashboard Preview
 
-<p align="center">
-    <img src="screenshots/dashboard_overview.png" width="100%" alt="Customer 360 Dashboard">
-</p>
-
----
+![Executive Dashboard](screenshots/executive_dashboard.png)
 
 ## 📈 Executive KPIs
 
@@ -701,6 +708,16 @@ The following screenshots demonstrate the end-to-end execution of the data engin
 
 *Interactive dashboard displaying key business KPIs.*
 ---
+# 🎥 Project Demo
+
+The following workflow demonstrates the end-to-end execution of the Customer 360 Analytics Platform:
+
+1. Generate synthetic retail datasets using Python.
+2. Upload source CSV files to Google Cloud Storage.
+3. Load raw data into BigQuery Bronze tables.
+4. Transform data through Bronze → Silver → Gold layers.
+5. Execute analytics queries and validate data quality.
+6. Visualize business KPIs using Power BI.
 
 # 🚀 Installation & Setup
 
@@ -897,10 +914,8 @@ Production-Ready Data Engineering Portfolio Project
 
 ### Connect
 
-- GitHub: https://github.com/manjitsharma066-debug
-- LinkedIn: *(www.linkedin.com/in/manjit-kumar-sharma-2bbb93324e)*
-
----
+- GitHub: [manjitsharma066-debug](https://github.com/manjitsharma066-debug)
+- LinkedIn: [Manjit Kumar Sharma](https://www.linkedin.com/in/manjit-kumar-sharma-2bbb93324e)
 
 
 <div align="center">
